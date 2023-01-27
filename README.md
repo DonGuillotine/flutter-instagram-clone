@@ -37,10 +37,10 @@ This is a normal flutter app. You should follow the instructions in the [officia
 * Photo sharing.
 * Create your profiles.
 * Search bar, to look for Users.
-* Responsive layout for all mobile devices
+* Responsive layout for all mobile devices.
 * Runs on Web.
 * Email & Password Authentication
-* Share Posts with Caption
+* Share Posts with Caption.
 * Real-time updates.
 * Following other users.
 * Engaging with content (like, comment)
