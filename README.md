@@ -58,11 +58,11 @@ If your problem or idea is not addressed yet, [please open a new issue](https://
 ## Contributing
 Feel Free to Contribute to this project.
 After cloning this repository, migrate to ```instagram-flutter-clone``` folder. Then, follow the following steps:
-- Create Firebase Project
-- Enable Authentication
-- Make Firestore Rules
-- Create Android, iOS & Web Apps
-- Take Web FirebaseOptions and put it in main function in main.dart file replacing my keys
+- Create Firebase Project.
+- Enable Authentication.
+- Make Firestore Rules.
+- Create Android, iOS & Web Apps.
+- Take Web FirebaseOptions and put it in main function in main.dart file replacing my keys.
 Then run the following commands to run your app:
 ```bash
   flutter pub get
