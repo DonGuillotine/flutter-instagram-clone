@@ -43,7 +43,7 @@ This is a normal flutter app. You should follow the instructions in the [officia
 * Share Posts with Caption.
 * Real-time updates.
 * Following other users.
-* Engaging with content (like, comment)
+* Engaging with content (like, comment).
 * Firebase as a backend.
 
 ### Firebase
