@@ -81,5 +81,3 @@ Then run the following commands to run your app:
 ## Thanks
 
 Thanks to Rivaan Ranawat <https://github.com/RivaanRanawat> for his guidiance.
-
-Enjoy :metal:
