@@ -11,7 +11,7 @@
   Enjoy a seamless and intuitive user experience with features such as photo sharing, user profiles, and real-time updates. Stay connected with friends and family by following their posts and engaging with their content. Experience the power of Firebase's robust backend as you effortlessly share and explore your world.
     <br>
     <br>
-    Try it out now!, made with much  :heart:
+    Try it out now!
     <br>
     <br>
     <a href="https://github.com/DonGuillotine/flutter-instagram-clone/issues/new">Report bug</a>
